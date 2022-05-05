@@ -1,7 +1,12 @@
 import React from 'react';
+import MainContainer from './containers/MainContainer';
 
 function App() {
-  return <h1>Ji</h1>;
+  return (
+    <div>
+      <MainContainer />
+    </div>
+  );
 }
 
 export default App;
