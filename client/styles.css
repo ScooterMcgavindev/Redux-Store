@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Ubuntu Light', 'Century Gothic', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #393939;
+  background-color: #fff;
+}
+.marketBox {
+  padding: 5px;
+  width: 30%;
+  margin: 5px 5px 13px 10px;
+  float: left;
+  font-size: 0.8em;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
